@@ -3,6 +3,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "both"
 included-patches = "'Minimized playback' 'Remove tracking query parameter' 'Announcements' 'Bypass URL redirects' 'Open links externally' 'Hide ads' 'Video ads' 'SponsorBlock' 'Change header' 'Return YouTube Dislike' 'Hide Shorts components' 'Copy video URL' 'Downloads'"
 exclusive-patches = true
 
